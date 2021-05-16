@@ -165,7 +165,7 @@ The origin trials module has also been optimized to work with twig `2.x` and `3.
 ## Citation 📚
 
 <a href="https://zenodo.org/">
-  <img src="https://github.com/summer-cms/sc-origin-trials-module/blob/master/src/assets/images/buttons/citation.svg" />
+  <img src="https://github.com/summercms/sc-origin-trials-module/blob/main/src/assets/images/buttons/citation.svg" />
 </a>
 
 If you use this origin trials module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this origin trials module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
