@@ -344,7 +344,7 @@ This origin trials module uses some PSR standards to be the most interoperable p
 
 We also suggest using Cross-browser testing provided by BrowserStack (*) where a real-browser can't be used in-house.
 
-<p align="center"><img src="https://github.com/summer-cms/sc-origin-trials-module/blob/master/src/assets/images/browser-stack.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-origin-trials-module/blob/main/src/assets/images/browser-stack.png"></p>
 
 ## PHP Coding Standards Fixer ⭕
 
