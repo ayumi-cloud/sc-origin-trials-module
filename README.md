@@ -390,7 +390,7 @@ $ composer test
 
 The Summer CMS and all modules use: [Semantic Versioning](https://semver.org/).
 
-<p align="center"><img src="https://github.com/summer-cms/sc-origin-trials-module/blob/master/src/assets/images/semver.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-origin-trials-module/blob/main/src/assets/images/semver.png"></p>
 
 Semantic Versioning is a 3-component number in the format of `X.Y.Z` where:
 
